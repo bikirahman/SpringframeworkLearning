@@ -13,7 +13,7 @@ If you're new to the repository or Spring Framework in general, here are a few s
 1. Clone the repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/spring-framework-learnings.git
+   git clone https://github.com/bikirahman/SpringframeworkLearning.git
    ```
 
 2. Explore the code examples and tutorials in the respective directories. Each example/tutorial is well-documented and contains instructions to run the code or follow along.
